@@ -4,3 +4,5 @@ La idea es concatenar con mis asignaciones actuales respecto a SQL y DAX para te
 
 Actualmente intentando conectar Kate con Github
 Se opta por ocupar VSC en el intertanto.
+
+-sin novedad.
